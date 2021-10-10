@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://travelisfun.netlify.app/sitemap.xml
